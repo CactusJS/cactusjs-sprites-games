@@ -4,12 +4,15 @@ Repository with multiple sprites free for download.
 
 ## Sprites
 
-| ![hunter][hunter-img]     |
-| --------------------- |
-| [Hunter][hunter-link] |
+| ![hunter][hunter-img] | ![knight][knight-img] |
+| --------------------- | --------------------- |
+| [Hunter][hunter-link] | [Knight][knight-link] |
 
-[hunter-img]: https://raw.githubusercontent.com/CactusJS/cactusjs-sprites-games/gh-sprites/Hunter/Idle/hunter-idle0.png
-[hunter-link]: https://github.com/CactusJS/cactusjs-sprites-games/tree/gh-sprites/Hunter
+[hunter-img]: https://raw.githubusercontent.com/CactusJS/cactusjs-sprites-games/master/Hunter/Idle/hunter-idle0.png
+[hunter-link]: https://github.com/CactusJS/cactusjs-sprites-games/tree/master/Hunter
+
+[knight-img]: https://raw.githubusercontent.com/CactusJS/cactusjs-sprites-games/master/Knight/Idle/knight-idle0.png
+[knight-link]: https://github.com/CactusJS/cactusjs-sprites-games/tree/master/Knight
 
 ## Contributing
 
